@@ -1,7 +1,6 @@
 import ButtonElement from "../_components/Pure-Elements/ButtonElement";
 import InputElement from "../_components/Pure-Elements/InputElements";
 
-
 export default function Advanced() {
 
 
